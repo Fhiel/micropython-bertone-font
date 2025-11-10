@@ -1,7 +1,10 @@
-﻿# BERTONE X1/9 Pixel Font (16×21 + 12×16)
+# BERTONE X1/9 Pixel Font (16×21 + 12×16)
+
+**Used in my 1983 BERTONE X1/9e – fully converted to electric drive**
 
 Pixel-perfect digits for SSD1306 OLED (MONO_VLSB) – 48 bytes per char  
-Used in real 300+ km/h race car dashboard
+Zero-flicker, async-safe, dirty-rect optimized  
+Real-time speed, total/trip km, motor/MCU temps, ISO-R display
 
 ```python
 from myfont import MyFont
